@@ -28,3 +28,6 @@ b = {'k1':100,'k2':200,'k3':300,}
 print(b.keys())   #Tulostaa avaimen
 print(b.values()) #Tulostaa arvon
 print(b.items()) #Tulostaa itemin
+
+
+
